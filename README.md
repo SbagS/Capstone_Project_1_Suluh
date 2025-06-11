@@ -1,3 +1,3 @@
-Program data kontak telepon ini memiliki fitur CRUD (Create, Read, Update, Delete) untuk memodifikasi data di dalam suatu kontak telepon.
-Berikut link Video Penjelasan dari program ini https://drive.google.com/drive/folders/1sGEtFA3N2HXqRqf14U-Cul9onfdwYJqq?usp=drive_link
-Mohon maaf apabila penjelasannya kurang jelas dikarenakan pembatasan waktu untuk video. Oleh karena itu saya menambahkan beberapa komentar di file python program data kontak telepon
+- Program data kontak telepon ini memiliki fitur CRUD (Create, Read, Update, Delete) untuk memodifikasi data di dalam suatu kontak telepon.
+- Berikut link Video Penjelasan dari program ini https://drive.google.com/drive/folders/1sGEtFA3N2HXqRqf14U-Cul9onfdwYJqq?usp=drive_link
+- Mohon maaf apabila penjelasannya kurang jelas dikarenakan pembatasan waktu untuk video. Oleh karena itu saya menambahkan beberapa komentar di file python program data kontak telepon
